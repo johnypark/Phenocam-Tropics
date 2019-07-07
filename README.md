@@ -5,6 +5,12 @@ Goals, progresses, and issues on phenocam leaf phenology analysis.
 - One goal is to overlap and fuse the leaf phenology trajectory from mulitple sources of data. Especially, to overlap leaf cover time series from BCI drone data (https://www.mdpi.com/2072-4292/11/13/1534) with phenocam-driven vegetation index time series.  
 - The other goal is to gather phenocam data from all tropical region, to study interannual varibility of leaf productivity in a vegetation demography context. 
 
+### Grant information
+Current and future research grant sources. 
+- LTER (discontiued, but many grants lasts until 2022-2023). https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=7671
+- Macrosystems and NEON-enabled https://www.nsf.gov/pubs/2019/nsf19538/nsf19538.htm
+- Phenocam NSF grant abstract (tenuare July 2022) https://www.nsf.gov/awardsearch/showAward?AWD_ID=1702697
+
 ### Current Issues
 
 Jul 5 2019
