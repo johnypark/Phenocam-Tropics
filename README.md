@@ -14,6 +14,7 @@ Current and possible research grant sources related to phenocam.
 ### Helpful sources
 - xROI by Bijan, postdoc at the Richardson lab. https://github.com/bnasr/xROI
 - Hawaii phenocam. http://www.hippnet.hawaii.edu/
+- Working with Phenocam Images, by treystaf. ttps://github.com/treystaff/PhenoAnalysis/wiki/Working-with-PhenoCam-Images
 
 ### Current Issues
 
