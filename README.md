@@ -11,6 +11,10 @@ Current and possible research grant sources related to phenocam.
 - Macrosystems and NEON-enabled https://www.nsf.gov/pubs/2019/nsf19538/nsf19538.htm
 - Phenocam NSF grant abstract (tenuare July 2022) https://www.nsf.gov/awardsearch/showAward?AWD_ID=1702697
 
+### Helpful sources
+- xROI by Bijan, postdoc at the Richardson lab. https://github.com/bnasr/xROI
+- Hawaii phenocam. http://www.hippnet.hawaii.edu/
+
 ### Current Issues
 
 Jul 5 2019
@@ -23,5 +27,4 @@ Jul 5 2019
  - BCI2 - Inactive, however the best image qualities. Therefore download the data. Actually, use all three camera data.
  Jul 6 2019
  - Check other Phenocam data, e.g. Lopes 2016, Leaf flush drives dry season green-up of the Central Amazon. (Cannot find this data from phenocam network.)
- - http://www.hippnet.hawaii.edu/
- - http://www.hippnet.hawaii.edu/
+ 
