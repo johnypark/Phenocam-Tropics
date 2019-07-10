@@ -8,7 +8,7 @@ Goals, progresses, and issues on phenocam leaf phenology analysis.
 ### Grant information
 Current and possible research grant sources related to phenocam. 
 - LTER (discontiued, but many grants lasts until 2022-2023). https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=7671
-- Macrosystems and NEON-enabled https://www.nsf.gov/pubs/2019/nsf19538/nsf19538.htm
+- Macrosystems and NEON-enabled science (recently changed) https://www.nsf.gov/pubs/2019/nsf19538/nsf19538.htm
 - Phenocam NSF grant abstract (tenuare July 2022) https://www.nsf.gov/awardsearch/showAward?AWD_ID=1702697
 
 ### Helpful sources
